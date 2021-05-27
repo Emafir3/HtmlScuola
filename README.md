@@ -1,2 +1,2 @@
 # HtmlScuola
-Compiti di informatica, minisitoweb
+Compito di informatica minisitoweb in HTML5
